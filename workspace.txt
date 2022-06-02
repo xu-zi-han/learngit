@@ -1,1 +1,2 @@
-understand how stage works
+understand how stage works and how to push
+add one line
